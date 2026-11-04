@@ -27,7 +27,7 @@ Download the latest stable release (**v1.0.0**) for your operating system:
 
 | Platform | Installer | Architecture / Package |
 | :--- | :--- | :--- |
-| **macOS (Apple Silicon)** | [Download .dmg](https://github.com/BriceGboyou/chimex-releases/releases/latest/download/ChimeX_1.0.0_aarch64.dmg) | M1 / M2 / M3 / M4 (aarch64) |
+| **macOS (Apple Silicon)** | [Download .dmg](https://github.com/BriceGboyou/chimex-releases/releases/latest/download/ChimeX_1.0.0_aarch64.dmg) | Apple M series (aarch64) |
 | **macOS (Intel)** | [Download .dmg](https://github.com/BriceGboyou/chimex-releases/releases/latest/download/ChimeX_1.0.0_x64.dmg) | 64-bit Intel (x86_64) |
 | **Windows** | [Download Installer (.exe)](https://github.com/BriceGboyou/chimex-releases/releases/latest/download/ChimeX_1.0.0_x64-setup.exe) | Windows 10 & 11 (x64) |
 | **Linux (Debian / Ubuntu)** | [Download .deb](https://github.com/BriceGboyou/chimex-releases/releases/latest/download/ChimeX_1.0.0_amd64.deb) | Ubuntu, Debian, Linux Mint |
